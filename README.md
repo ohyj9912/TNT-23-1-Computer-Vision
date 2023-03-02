@@ -24,13 +24,13 @@
 
 ### 🔔논문 링크
 
-ResNet  [Paper Link](https://arxiv.org/pdf/1512.03385.pdf)  [Leature Link](https://youtu.be/DAOcjicFr1Y?t=2845)
+ResNet  [ Paper](https://arxiv.org/pdf/1512.03385.pdf)  [ Leature Link](https://youtu.be/DAOcjicFr1Y?t=2845)
 
-Vision Transformer(ViT)  [Paper Link](https://arxiv.org/pdf/2010.11929.pdf)  [Leature Link](https://youtu.be/BP5CM0YxbP8)
+Vision Transformer(ViT)  [ Paper](https://arxiv.org/pdf/2010.11929.pdf)  [ Leature](https://youtu.be/BP5CM0YxbP8)
 
-U-Net [Paper Link](https://arxiv.org/pdf/1505.04597.pdf)  [Leature Link](https://youtu.be/oLvmLJkmXuc)
+U-Net [Paper Link](https://arxiv.org/pdf/1505.04597.pdf)  [ Leature](https://youtu.be/oLvmLJkmXuc)
 
-Diffusion  [Paper 1](https://arxiv.org/pdf/1503.03585.pdf)  [Paper 2](https://arxiv.org/pdf/2006.11239.pdf)  [Paper 3](https://arxiv.org/pdf/2102.09672.pdf)  [Paper 4](https://arxiv.org/pdf/2105.05233.pdf)  [Video Link](https://youtu.be/HoKDTa5jHvg)
+Diffusion  [ Paper1](https://arxiv.org/pdf/1503.03585.pdf)  [ Paper2](https://arxiv.org/pdf/2006.11239.pdf)  [ Paper3](https://arxiv.org/pdf/2102.09672.pdf)  [ Paper4](https://arxiv.org/pdf/2105.05233.pdf)  [ Video](https://youtu.be/HoKDTa5jHvg)
 
 ### 🔔커리큘럼
 주차별 세부 계획입니다. (변동 가능)
