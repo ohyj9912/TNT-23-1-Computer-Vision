@@ -28,7 +28,7 @@ Diffusion [Link](https://arxiv.org/pdf/2006.11239.pdf)
 주차별 세부 계획입니다. (변동 가능)
 
 <p align="center">
-  <img width="700" height="500" src="https://user-images.githubusercontent.com/65398406/222331520-6200e850-f321-4344-a7b1-d7d49fbdd299.png">
+  <img width="579" height="713" src="https://user-images.githubusercontent.com/65398406/222331520-6200e850-f321-4344-a7b1-d7d49fbdd299.png">
 </p>
 
 
