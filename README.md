@@ -12,17 +12,25 @@
 
 ### 🔔스터디 방식
 
-총 9번의 스터디 모임을 계획하고 있습니다. 첫 1-4주차 동안은 논문 리뷰와 함께 실습 과제가 주어질 예정입니다. 발표 내용은 논문에 대한 간단한 개념 설명과 본인이 수행하신 실습 과제에 대한 코드 리뷰입니다. 발제를 맡지 않은 학회원들은 사전에 논문에 대한 학습을 진행한 후, 스터디 시간에 이해가 되지 않았던 점 등을 함께 논의합니다. 매주 스터디 시간 전까지 작업한 코드 결과물을 Repository에 업로드해주세요. 
+총 9번의 스터디 모임을 계획하고 있습니다. 
+
+첫 1-4주차 동안은 논문 리뷰와 함께 실습 과제가 주어질 예정입니다. 
+
+발표 내용은 논문에 대한 간단한 개념 설명과 본인이 수행하신 실습 과제에 대한 코드 리뷰입니다. 
+
+발제를 맡지 않은 학회원들은 사전에 논문에 대한 학습을 진행한 후, 스터디 시간에 이해가 되지 않았던 점 등을 함께 논의합니다. 
+
+매주 스터디 시간 전까지 작업한 코드 결과물을 Repository에 업로드해주세요. 
 
 ### 🔔논문 링크
 
-ResNet [Link](https://arxiv.org/pdf/1512.03385.pdf)
+ResNet  [Paper Link](https://arxiv.org/pdf/1512.03385.pdf)  [Leature Link](https://youtu.be/DAOcjicFr1Y?t=2845)
 
-Vision Transformer(ViT) [Link](https://arxiv.org/pdf/2010.11929.pdf)
+Vision Transformer(ViT)  [Paper Link](https://arxiv.org/pdf/2010.11929.pdf)  [Leature Link](https://youtu.be/BP5CM0YxbP8)
 
-U-Net [Link](https://arxiv.org/pdf/1505.04597.pdf)
+U-Net [Paper Link](https://arxiv.org/pdf/1505.04597.pdf)  [Leature Link](https://youtu.be/oLvmLJkmXuc)
 
-Diffusion [Link](https://arxiv.org/pdf/2006.11239.pdf)
+Diffusion  [Paper 1](https://arxiv.org/pdf/1503.03585.pdf)  [Paper 2](https://arxiv.org/pdf/2006.11239.pdf)  [Paper 3](https://arxiv.org/pdf/2102.09672.pdf)  [Paper 4](https://arxiv.org/pdf/2105.05233.pdf)  [Video Link](https://youtu.be/HoKDTa5jHvg)
 
 ### 🔔커리큘럼
 주차별 세부 계획입니다. (변동 가능)
